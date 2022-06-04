@@ -1,0 +1,2 @@
+# Oshieinsight
+For beginners training 
